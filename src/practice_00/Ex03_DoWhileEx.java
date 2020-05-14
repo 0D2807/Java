@@ -49,8 +49,8 @@ public class Ex03_DoWhileEx {
 		
 		
 		
-		
-		
+ 			// 쉬는 시간 끝
+			// 집중
 		
 		
 		
