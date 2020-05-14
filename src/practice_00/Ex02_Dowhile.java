@@ -49,7 +49,7 @@ public class Ex02_Dowhile {
 		
 		
 		
-		
+		// 왜 안되는거니;;
 		
 		
 		
